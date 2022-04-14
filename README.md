@@ -7,7 +7,9 @@
 
 [PointCloud Saliency Maps](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_PointCloud_Saliency_Maps_ICCV_2019_paper.pdf) `ICCV2019` `drop`
 
+[Robust Adversarial Objects against Deep Learning Models](https://jin.ece.ufl.edu/papers/AAAI2020_PointNet_CR.pdf)  `AAAI2020`
 
+[Transferable adversarial perturbations on 3d point clouds.](https://arxiv.org/abs/1912.00461)  `ECCV2020`
 
 ## DEFENSE：
 
