@@ -11,5 +11,7 @@
 
 [Transferable adversarial perturbations on 3d point clouds.](https://arxiv.org/abs/1912.00461)  `ECCV2020`
 
+[Boosting 3D Adversarial Attacks with Attacking On Frequency](https://arxiv.org/abs/2201.10937) `ICML2022`
+
 ## DEFENSE：
 
