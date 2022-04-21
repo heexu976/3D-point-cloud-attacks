@@ -13,5 +13,21 @@
 
 [Boosting 3D Adversarial Attacks with Attacking On Frequency](https://arxiv.org/abs/2201.10937) `ICML2022`
 
+[Geometry-Aware Generation of Adversarial Point Clouds](https://arxiv.org/pdf/1912.11171.pdf) 
+
+[AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570239.pdf) `ECCV 2020`
+
+
+
 ## DEFENSE：
+
+
+
+
+
+
+
+## 2D_ATTACK：
+
+[AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks](https://arxiv.org/pdf/1805.11770.pdf)
 
