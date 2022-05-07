@@ -21,7 +21,7 @@
 
 ## DEFENSE：
 
-
+[DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense](https://arxiv.org/pdf/1812.11017.pdf)
 
 
 
